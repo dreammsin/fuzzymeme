@@ -10,7 +10,7 @@ namespace HelloWorld
     {
         public override string ToString()
         {
-            return "Hellooooo World";
+            return "Hellooooo RX8 World";
         }
     }
 }
